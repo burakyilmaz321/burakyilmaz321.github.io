@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Merriweather:900|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Merriweather:900|Raleway:400,200');
 
 body {
   background-color: #fae1dc;
@@ -70,4 +70,5 @@ body {
 
 .author {
   font-size: 20px;
+  font-weight: 200;
 }
